@@ -7,4 +7,4 @@
 
 ## [Section 2: gitFlow](/Section2.md)
 
-## [Section 3: Git Terms](/Section2.md)
+## [Section 3: Git Terms](/Section3.md)
