@@ -9,6 +9,4 @@
 
 ## Examples
 
-![Forking](/Git_Fork_Example_v1.mp4)
-Format: ![Alt Text](url)
-
+![Fork Example](/Git_Fork_Example_v1.gif)
