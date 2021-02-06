@@ -20,4 +20,4 @@ git branch
 Sources:
 * [What is master in Git?] (https://www.git-tower.com/learn/git/glossary/master/)
 
-[Link to Previous Page](/terms.md)
+[Link to Previous Page](/Section3.md)

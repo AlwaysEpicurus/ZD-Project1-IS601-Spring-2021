@@ -37,5 +37,5 @@ Sources:
 * [Git Branch](https://www.git-tower.com/learn/git/commands/git-branch)
 * [Using Branches](https://www.atlassian.com/git/tutorials/using-branches)
 
-[Link to Previous Page](/terms.md) 
+[Link to Previous Page](/Section3.md) 
 

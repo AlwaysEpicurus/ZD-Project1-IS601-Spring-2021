@@ -28,4 +28,4 @@ git commit --amend -m "Amended file with necessary typo changes"
 Sources:
 * [Git Commit](https://www.atlassian.com/git/tutorials/saving-changes/git-commit)
 
-[Link to Previous Page](/terms.md)
+[Link to Previous Page](/Section3.md) 
