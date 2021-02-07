@@ -11,7 +11,7 @@
 
 ## [Sources](/Sources.md)
 
-## [Changelog](/changelog.md)
+## [Changelog](/Changelog.md)
 
 ### _Project by [Zach Crossey](https://github.com/zc256) and [David Preciado](https://github.com/AlwaysEpicurus)_
 
