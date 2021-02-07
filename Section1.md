@@ -1,6 +1,6 @@
-# [GIT](/git.md)
+# [GIT](/gitIPC.md)
 
-# [ Docker](docker.md)
+# [ Docker](dockerIPC.md)
 
 # [Automation Testing](at.md)
 
