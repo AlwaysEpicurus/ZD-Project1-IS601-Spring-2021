@@ -1,4 +1,4 @@
-# Zack & David's Prject 1
+# Zack & David's Project 1
 
 ## _For IS 601 Spring 2021_
 
