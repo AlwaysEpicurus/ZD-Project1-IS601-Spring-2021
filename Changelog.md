@@ -1,0 +1,66 @@
+- Fix: fixed typo on README.md
+- Task:Add our names, links to Sources and Changelog page
+- Fix: fixing .gitignore adding *
+- Fix: update .gitignore to filter all swp files properly
+- Fix: Change URL desintation for all terms within Section3 file
+- Fix: Change link location for Section 3 on README
+- Merge pull request #26 from AlwaysEpicurus/StatusFeature
+- Merge pull request #25 from AlwaysEpicurus/RemoteFeature
+- Merge pull request #24 from AlwaysEpicurus/PullFeature
+- Feature: Add Status Feature
+- Feature: Add Remote Add/Remove/Show feature
+- Feature: Add Pull Feature
+- Feature: Add Push feature
+- Feature: add Merge Feature
+- Merge pull request #23 from AlwaysEpicurus/FoxFix3
+- Fix: fix fork.md formating
+- Merge pull request #22 from AlwaysEpicurus/FoxFix3
+- Fix:update Fork.md
+- Fix: add Fork Gif and updated Fork.md
+- Merge pull request #21 from AlwaysEpicurus/ForkFix2
+- Merge pull request #20 from AlwaysEpicurus/forkFix
+- Task: Add PNG for Fork page. Fix: embed code on fork.md
+- Task: add Fork MP4
+- Merge pull request #19 from AlwaysEpicurus/Section2Add
+- Merge pull request #18 from AlwaysEpicurus/Section3Add
+- Merge pull request #17 from AlwaysEpicurus/ForkFeature
+- Feature: add page about Forking
+- Feature: Added links for each terms definition page.
+- Task: Added definition of GitFlow to proper section page.
+- Merge pull request #16 from AlwaysEpicurus/CloneFeatureRedux
+- Fix: adding clond.md to replace cloud.md
+- Merge pull request #15 from AlwaysEpicurus/cloneFeature
+- Feature: Adding Clone feature
+- Merge pull request #14 from AlwaysEpicurus/CommitFeature
+- Merge pull request #13 from AlwaysEpicurus/RepoFeature
+- Merge pull request #12 from AlwaysEpicurus/MainFeature
+- Merge pull request #11 from AlwaysEpicurus/CheckoutFeature
+- Merge pull request #10 from AlwaysEpicurus/GitFeature
+- Merge pull request #9 from AlwaysEpicurus/DockerFeature
+- Merge pull request #8 from AlwaysEpicurus/GitFlowFeature
+- Feature: Added section for explaining what GitFlow is.
+- Feature: Added section for how Docker can improve productivity and competitiveness of a company.
+- Feature: Added section for how Git can improve productivity and competitiveness of a company.
+- Feature: Added definition of the term checkout.
+- Feature: Added definition of the term main branch.
+- Feature: Added definition of the term repository.
+- Feature: Added definition of the term commit.
+- Merge pull request #7 from AlwaysEpicurus/BranchFeature
+- Merge pull request #6 from AlwaysEpicurus/Test1
+- Feature: Added definition of the term branch.
+- Task: connection test 2
+- Task: connection test
+- Merge pull request #5 from AlwaysEpicurus/CIfix1
+- Fix: small fix within CI.md text
+- Merge pull request #4 from AlwaysEpicurus/CIFeature
+- Feature: Add page on Continuous Integration (Ci.md)
+- Merge pull request #3 from AlwaysEpicurus/ATfix1
+- Fix: Update At.md to fix headings and add sources
+- Feature: Adding Automation Testing Page
+- Feature: Adding Automation Testing Page
+- Merge pull request #2 from AlwaysEpicurus/setupfix2
+- Task: Fix errors on README.md SEction1.md and Section3.md
+- Merge pull request #1 from AlwaysEpicurus/setupfix
+- Fix: Fiex README syntax erros Task: Added gitignore
+- Task: Setup README and Subdirectory Pages
+- Initial commit
