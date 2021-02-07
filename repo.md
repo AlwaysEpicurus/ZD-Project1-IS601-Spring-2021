@@ -24,3 +24,11 @@ This will create a new, empty Git repository in the directory the user specifies
 .git subdirectory, and nothing else.
 ```
 git init <dir>
+```
+
+Sources:
+[1] [Setting up a repository](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+
+
+
+[Link to Previous Page](/Section3.md) 

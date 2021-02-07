@@ -20,4 +20,4 @@ git checkout -b <branch>
 Sources:
 * [Git Checkout](https://www.atlassian.com/git/tutorials/using-branches/git-checkout)
 
-[Link to Previous Page](/terms.md)
+[Link to Previous Page](/Section3.md) 
