@@ -1,8 +1,28 @@
+- Merge pull request #39 from AlwaysEpicurus/SourcesPage
+- Feature: Added Sources section for each topic section.
+- Merge pull request #38 from AlwaysEpicurus/RMfix1
+- Fix: fix broken leak in README file
+- Merge pull request #37 from AlwaysEpicurus/RMfix1
+- Fix: fix broken link
+- Merge pull request #36 from AlwaysEpicurus/RMfix1
+- Fix: Fixed broken leads on README.md file
+- Merge pull request #35 from AlwaysEpicurus/ChangelogTask
+- Task:Added change log
+- Merge pull request #34 from AlwaysEpicurus/READMEFixT
 - Fix: fixed typo on README.md
+- Merge pull request #33 from AlwaysEpicurus/READMEPostPrep
 - Task:Add our names, links to Sources and Changelog page
+- Merge pull request #32 from AlwaysEpicurus/Section1GitDocker
+- Merge pull request #31 from AlwaysEpicurus/GitTermsLinkFix
+- Fix: Fixed the link to Section 3 page for terms.
+- Task: Added proper links for Git and Docker.
+- Merge pull request #30 from AlwaysEpicurus/gitignoreFix
 - Fix: fixing .gitignore adding *
+- Merge pull request #29 from AlwaysEpicurus/gitignoreFix
 - Fix: update .gitignore to filter all swp files properly
+- Merge pull request #28 from AlwaysEpicurus/Section3Fix
 - Fix: Change URL desintation for all terms within Section3 file
+- Merge pull request #27 from AlwaysEpicurus/READMEfix
 - Fix: Change link location for Section 3 on README
 - Merge pull request #26 from AlwaysEpicurus/StatusFeature
 - Merge pull request #25 from AlwaysEpicurus/RemoteFeature
