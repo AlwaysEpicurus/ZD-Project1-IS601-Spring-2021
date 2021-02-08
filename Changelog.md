@@ -85,7 +85,7 @@ Feature: add page about Forking
 
 **David Feature 4**
 
-Feature: Added links for each terms definition page.
+Feature: Added definition page.
 
 - Zach:Task: Added definition of GitFlow to proper section page.
 
